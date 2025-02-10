@@ -15,3 +15,10 @@ sudo mkdir -p dockercomp
 cd dockercomp
 nano windowsxp.yaml
 ````
+
+### run it
+
+````
+sudo docker-compose -f windowsxp.yaml up
+````
+ 
