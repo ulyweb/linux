@@ -21,4 +21,10 @@ nano windowsxp.yaml
 ````
 sudo docker-compose -f windowsxp.yaml up
 ````
- 
+
+
+### How to verify if my system supports KVM?
+````
+sudo apt install cpu-checker
+sudo kvm-ok
+````
