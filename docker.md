@@ -1,0 +1,17 @@
+# Install Docker Compose
+
+#### Search for dockur windows (https://github.com/dockur/windows)
+
+
+### Install docker
+````
+sudo apt update && clear
+sudo apt install -y docker.io docker-compose
+````
+
+### Making docker directory
+````
+sudo mkdir -p dockercomp
+cd dockercomp
+nano windowsxp.yaml
+````
