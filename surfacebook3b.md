@@ -71,7 +71,7 @@ This will prompt you to reboot and enroll the MOK key via blue MokManager screen
   sudo apt-key list | grep "56C464BAAC421453" || echo "Key missing"
   ```
 
-Let me know your current outputs—especially from `ls /etc/apt/trusted.gpg.d/`—and we’ll take it step-by-step!
+Current outputs—especially from `ls /etc/apt/trusted.gpg.d/`—and we’ll take it step-by-step!
 
 [1]: https://grupopanafrio.com/book/infor-web-book.php?clase=&id=841&lang=EN&marca=&utm_source=chatgpt.com "BOOK.PANAFRIO.COM"
 [2]: https://askubuntu.com/questions/1528455/how-to-install-touchscreen-and-other-drivers-for-microsoft-surface-devices-runni?utm_source=chatgpt.com "How to install touchscreen and other drivers for Microsoft Surface ..."
